@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         phpinfo();
+        echo "Index modificado";
         ?>
     </body>
 </html>
